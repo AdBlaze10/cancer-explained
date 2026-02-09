@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-label="SECTION 5: HOW CANCER CELLS SURVIVE AND EXPAND banner">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10b981"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="360" fill="#ffffff"/>
+  <g opacity="0.22">
+    <circle cx="300" cy="120" r="150" fill="url(#g)" filter="url(#soft)"/>
+    <circle cx="1320" cy="90" r="190" fill="url(#g)" filter="url(#soft)" opacity="0.85"/>
+    <circle cx="1030" cy="280" r="160" fill="url(#g)" filter="url(#soft)" opacity="0.75"/>
+  </g>
+  <path d="M0 270 C 240 210, 420 320, 660 265 S 1040 310, 1280 255 S 1470 290, 1600 230 L 1600 360 L 0 360 Z" fill="#0f172a" opacity="0.06"/>
+  <g>
+    <text x="84" y="150" font-size="44" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#0f172a" font-weight="900">SECTION 5: HOW CANCER CELLS SURVIVE AND EXPAND</text>
+    <text x="86" y="192" font-size="18" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#334155">Learn how cancer cells avoid death, keep dividing, hijack growth signals, reshape their environment, and build blood supply.</text>
+    <text x="86" y="232" font-size="12" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#64748b" letter-spacing=".18em">CANCER EXPLAINED</text>
+  </g>
+</svg>

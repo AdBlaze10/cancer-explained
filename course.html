@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Cancer Explained | Course Summary</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="topbar">
+      <a class="brand" href="index.html">
+        <img src="assets/favicon.svg" alt="Cancer Explained">
+        <span>Cancer Explained</span>
+      </a>
+      <nav class="nav" aria-label="Top navigation">
+        <a data-nav href="index.html">Home</a>
+        <a data-nav href="course.html">Course Summary</a>
+        <a data-nav href="about.html">About Me</a>
+        <a data-nav href="contact.html">Contact</a>
+      </nav>
+    </header>
+
+    <section class="banner" aria-label="Title image">
+      <img id="titleBanner" src="assets/banners/default.svg" alt="Section banner">
+    </section>
+
+    <section class="layout">
+  <aside class="col">
+    <h3>Find a sub-section</h3>
+    <label class="kicker" for="search">Search</label>
+    <input id="search" class="input" type="text" placeholder="Try: DNA, checkpoints, metastasis…">
+    <p id="status" style="margin-top:10px;" class="pill">Loading…</p>
+    <div class="card" style="margin-top:12px;">
+      <div class="kicker">Note</div>
+      <p>Coming soon..</p>
+    </div>
+  </aside>
+
+  <main class="col">
+    <div class="kicker">Course summary</div>
+    <h1 class="hero-title" style="margin-top:8px;">Sections & Sub-sections</h1>
+    <p class="lead">Click a sub-section to open the lesson page.</p>
+    <ul id="sectionList" class="topic-list" style="margin-top:14px;"></ul>
+  </main>
+
+  <aside class="col">
+    <h3>Study rhythm</h3>
+    <div class="card">
+      <div class="kicker">Suggestion</div>
+      <p>Watch the video once, skim the notes, then take the quiz. If you miss a question, re-check the notes and try again.</p>
+    </div>
+  </aside>
+</section>
+
+    <div class="footer">
+      <div>© <span data-year></span> Cancer Explained</div>
+    </div>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/course.js"></script>
+</body>
+</html>

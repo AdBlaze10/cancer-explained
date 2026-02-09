@@ -1,0 +1,2466 @@
+{
+  "sections": [
+    {
+      "id": "what-is-a-cell-foundations",
+      "banner": "assets/banners/section-what-is-a-cell-foundations.svg",
+      "title": "SECTION 1: WHAT IS A CELL? (FOUNDATIONS)",
+      "summary": "Learn what cells are, what they do to stay alive, and why cell size, DNA, and division matter for understanding cancer.",
+      "subsections": [
+        {
+          "id": "what-is-a-cell-and-why-it-matters",
+          "title": "1.1 What Is a Cell and Why It Matters",
+          "description": "Define what a cell is, what cells must do to stay alive, and how cell teamwork supports the whole organism.",
+          "videoUrl": "https://www.youtube.com/watch?v=s-wOtmY9uC4",
+          "duration": "5 min",
+          "text": [
+            "1.1 what is a cell and why it matters focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is a cell?",
+              "options": [
+                "A group of tissues working together",
+                "The smallest unit of life capable of carrying out vital functions",
+                "A molecule that stores genetic information",
+                "A structure found only in animals"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1830138848",
+              "explanation": ""
+            },
+            {
+              "question": "Which of the following is a function cells must perform to stay alive?",
+              "options": [
+                "Produce electricity",
+                "Repair damage",
+                "Absorb sunlight",
+                "Move between organs"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1235366536",
+              "explanation": ""
+            },
+            {
+              "question": "Why must cells in multicellular organisms cooperate?",
+              "options": [
+                "Cells cannot survive on their own",
+                "Cooperation benefits the organism as a whole",
+                "Cells share DNA with each other",
+                "Cooperation prevents all mutations"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1859904060",
+              "explanation": ""
+            },
+            {
+              "question": "What does it mean when cells \"crespond to signals\"",
+              "options": [
+                "They communicate using nerves",
+                "They react to instructions from their environment",
+                "They send electrical impulses",
+                "They divide continuously"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1994928738",
+              "explanation": ""
+            },
+            {
+              "question": "Why would a cell ignoring signals be dangerous?",
+              "options": [
+                "It would run out of energy",
+                "It could damage nearby cells",
+                "It might behave in ways that harm the organism",
+                "It would immediately die"
+              ],
+              "correctIndex": 3,
+              "fieldName": "entry.789270480",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSc7eF9EhfL2Fg08WeMhg1b63wjCFU4c8WyeiP8QNeGDBM2QSA",
+          "quizFormId": "1FAIpQLSeACx7q991v1MEX3ABPzoLThitekBZwyjPWCvcN_xKcL9fGEw"
+        },
+        {
+          "id": "cellular-organization-and-compartmentalization",
+          "title": "1.2 Cellular Organization and Compartmentalization",
+          "description": "Learn how cells are organized into parts (organelles) and why having compartments makes cell processes more efficient.",
+          "videoUrl": "https://www.youtube.com/watch?v=gaSYi4nh9PU",
+          "duration": "5 min",
+          "text": [
+            "1.2 cellular organization and compartmentalization focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why do cells divide?",
+              "options": [
+                "To increase their size\",",
+                "To grow, repair damage, and replace old cells",
+                "To avoid mutations",
+                "To create energy"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1311621599",
+              "explanation": ""
+            },
+            {
+              "question": "What does the surface-area-to-volume ratio describe?",
+              "options": [
+                "How fast cells divide",
+                "How much DNA a cell contains",
+                "The relationship between cell size and exchange efficiency",
+                "The number of organelles in a cell"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1056343601",
+              "explanation": ""
+            },
+            {
+              "question": "Why can't cells just grow larger instead of dividing?",
+              "options": [
+                "Large cells cannot make proteins",
+                "Large cells cannot store DNA",
+                "Exchange of nutrients and waste becomes inefficient",
+                "Large cells divide too quickly"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.106113912",
+              "explanation": ""
+            },
+            {
+              "question": "What is DNA replication?",
+              "options": [
+                "The repair of damaged DNA",
+                "The copying of DNA before cell division",
+                "The movement of DNA within the nucleus",
+                "The destruction of old DNA"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1935381942",
+              "explanation": ""
+            },
+            {
+              "question": "What is a mutation?",
+              "options": [
+                "A temporary change in cell behavior",
+                "A permanent change in the DNA sequence",
+                "A type of cell division",
+                "A signal from another cell"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1340909405",
+              "explanation": ""
+            },
+            {
+              "question": "Why does repeated cell division increase cancer risk?",
+              "options": [
+                "Cells become weaker over time",
+                "DNA replication is always inaccurate",
+                "Mutations can accumulate over many divisions\"",
+                "Cells lose their membrane"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.2038706676",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdlJIWtHhWU7ZzPbRKgwejhrofX13g_GTYhQWjmOq9Z6U0cSg",
+          "quizFormId": "1FAIpQLScgiee1yYeL9VombrqYsBBGuuVNR0AaRjf3go1WM4qXaA2hhg"
+        },
+        {
+          "id": "the-surface-area-to-volume-problem",
+          "title": "1.3 The Surface-Area-to-Volume Problem",
+          "description": "Understand why cells can\u2019t grow forever and how surface area vs volume affects nutrient and waste exchange.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "1.3 the surface-area-to-volume problem focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What limits how efficiently a cell can exchange materials with its environment?",
+              "options": [
+                "The number of chromosomes",
+                "The surface area of the cell membrane",
+                "The amount of DNA in the nucleus",
+                "The number of ribosomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1608757403",
+              "explanation": ""
+            },
+            {
+              "question": "As a cell grows larger, which increases faster?",
+              "options": [
+                "Surface area",
+                "Volume",
+                "Surface area and volume equally",
+                "Neither"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2076324996",
+              "explanation": ""
+            },
+            {
+              "question": "What happens when a cell\u2019s surface area cannot keep up with its volume?",
+              "options": [
+                "DNA replication stops",
+                "Protein synthesis accelerates",
+                "Exchange of nutrients and waste becomes inefficient",
+                "Cell division becomes impossible"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.498272947",
+              "explanation": ""
+            },
+            {
+              "question": "Why can cells not grow indefinitely large?",
+              "options": [
+                "DNA becomes unstable",
+                "The nucleus cannot expand",
+                "Homeostasis cannot be maintained",
+                "ATP production stops completely"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1727716652",
+              "explanation": ""
+            },
+            {
+              "question": "How does cell division solve the surface-area-to-volume problem?",
+              "options": [
+                "By increasing total volume",
+                "By reducing metabolic demand",
+                "By producing smaller cells with higher surface-area-to-volume ratios",
+                "By eliminating the need for membrane transport"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.2015021231",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfNZ_YxE2WTVsOiLxcTADomVcsMFiC9sD3u3scmm7DNxZ0Z5w",
+          "quizFormId": "1FAIpQLSde_dopNVAk-coDitMa0QP5ajRLQCNebzzzYdh6XXOy1SwWug"
+        },
+        {
+          "id": "why-cells-divide",
+          "title": "1.4 Why Cells Divide",
+          "description": "Explore why cells divide for growth, repair, and replacement, and why division is often better than getting bigger.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "1.4 why cells divide focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Which is NOT a primary reason cells divide?",
+              "options": [
+                "Growth",
+                "Repair",
+                "Replacement",
+                "Energy production"
+              ],
+              "correctIndex": 3,
+              "fieldName": "entry.651758749",
+              "explanation": ""
+            },
+            {
+              "question": "Why must skin and digestive tract cells divide frequently?",
+              "options": [
+                "They lack DNA repair systems",
+                "They are constantly lost and replaced",
+                "They experience high mutation rates",
+                "They cannot perform apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1234270339",
+              "explanation": ""
+            },
+            {
+              "question": "What controls cell division in healthy tissue?",
+              "options": [
+                "Random mutation",
+                "Environmental and neighboring-cell signals",
+                "Chromosome number",
+                "Cell age alone"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1179734975",
+              "explanation": ""
+            },
+            {
+              "question": "Why is cell division required due to physical constraints?",
+              "options": [
+                "DNA cannot be repaired indefinitely",
+                "Cells cannot grow beyond size limits",
+                "Proteins degrade too quickly",
+                "Membranes dissolve over time"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.705798814",
+              "explanation": ""
+            },
+            {
+              "question": "Why can\u2019t organisms simply stop cell division to prevent cancer?",
+              "options": [
+                "Cancer would still form",
+                "DNA replication would increase",
+                "Tissues could not grow or repair",
+                "Cells would mutate faster"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.532187283",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdmuCw5GqcxjZrxYG61dmT1iqDbW-57WB90HSRWvj31J5dv4Q",
+          "quizFormId": "1FAIpQLSdVX4OPgoIFuTAPi_IUueedDX0aFh85AJKSlrxu8pytqaGARg"
+        },
+        {
+          "id": "dna-as-the-instruction-manual-of-the-cell",
+          "title": "1.5 DNA as the Instruction Manual of the Cell",
+          "description": "See DNA as the cell\u2019s instruction manual and how genes guide proteins that control cell behavior.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "1.5 dna as the instruction manual of the cell focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is the main function of DNA?",
+              "options": [
+                "Producing energy",
+                "Storing cellular instructions",
+                "Removing waste",
+                "Transporting proteins"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1494551438",
+              "explanation": ""
+            },
+            {
+              "question": "Genes primarily contain information for making:",
+              "options": ["Lipids", "Carbohydrates", "Proteins", "Ribosomes"],
+              "correctIndex": 2,
+              "fieldName": "entry.584367038",
+              "explanation": ""
+            },
+            {
+              "question": "What occurs during transcription?",
+              "options": [
+                "DNA is translated into protein",
+                "DNA is copied into RNA",
+                "RNA is copied into DNA",
+                "Proteins are degraded"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.301273160",
+              "explanation": ""
+            },
+            {
+              "question": "What occurs during translation?",
+              "options": [
+                "RNA is turned into protein",
+                "DNA is repaired",
+                "Chromosomes separate",
+                "RNA enters the nucleus"
+              ],
+              "correctIndex": 0,
+              "fieldName": "entry.418185082",
+              "explanation": ""
+            },
+            {
+              "question": "Why do DNA mutations affect cell behavior?",
+              "options": [
+                "DNA directly performs cellular functions",
+                "Mutations change protein instructions",
+                "Mutations destroy the nucleus",
+                "DNA controls ATP production"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2013706769",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdUoce3k0VKjiocvnvRZ7MDy5Y8bPLs443H9cCQ1Fx4s4do2Q",
+          "quizFormId": "1FAIpQLSf-BhotL_S14b1hs3kd7SIY6K7vGjpO6crbbqlgjwDADt0myQ"
+        },
+        {
+          "id": "why-cell-division-is-inherently-risky",
+          "title": "1.6 Why Cell Division Is Inherently Risky",
+          "description": "Learn why copying DNA and dividing creates opportunities for mistakes, and how those mistakes can lead to cancer.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "1.6 why cell division is inherently risky focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why is DNA replication not perfectly accurate?",
+              "options": [
+                "DNA polymerase lacks proofreading",
+                "Errors occasionally escape correction",
+                "DNA is copied only once",
+                "Replication enzymes degrade DNA"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1084945950",
+              "explanation": ""
+            },
+            {
+              "question": "What is a permanent change in DNA called?",
+              "options": ["Lesion", "Signal", "Mutation", "Checkpoint"],
+              "correctIndex": 2,
+              "fieldName": "entry.42290606",
+              "explanation": ""
+            },
+            {
+              "question": "Why does cancer usually require multiple mutations?",
+              "options": [
+                "One mutation is usually lethal",
+                "Multiple control systems must be disrupted",
+                "DNA replication stops after one error",
+                "Mutations cancel each other out"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1888834827",
+              "explanation": ""
+            },
+            {
+              "question": "When is DNA most vulnerable to damage?",
+              "options": [
+                "When tightly packed",
+                "During replication and division",
+                "During protein synthesis",
+                "When inactive"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.936014134",
+              "explanation": ""
+            },
+            {
+              "question": "Why is cell division described as both essential and dangerous?",
+              "options": [
+                "It produces energy but damages proteins",
+                "It allows growth but shortens telomeres",
+                "It is required for life but introduces mutations",
+                "It slows aging but causes cancer"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.507280261",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSezs7SLH4RmY0c1RB26Azup3Yf-oWwRybHxcNVvU-eF_Y3sLw",
+          "quizFormId": "1FAIpQLSemmwdnJzexbuDVGVVmluw3wPEwX81gPh_VlrlI0PdiekIBxA"
+        }
+      ]
+    },
+    {
+      "id": "what-is-cancer",
+      "banner": "assets/banners/section-what-is-cancer.svg",
+      "title": "SECTION 2: WHAT IS CANCER?",
+      "summary": "Understand cancer as uncontrolled cell growth, how tumors form, and why cancer develops through many changes over time.",
+      "subsections": [
+        {
+          "id": "what-is-cancer",
+          "title": "2.1 What Is Cancer?",
+          "description": "Introduce cancer, tumors, and the difference between controlled growth and growth that escapes regulation.",
+          "videoUrl": "https://www.youtube.com/watch?v=KAY9VYkOBjE",
+          "duration": "5 min",
+          "text": [
+            "2.1 what is cancer? focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is a tumor?",
+              "options": [
+                "A group of dying cells",
+                "A mass of cells formed when division exceeds cell death",
+                "A type of infection",
+                "A damaged organ"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.156960133",
+              "explanation": ""
+            },
+            {
+              "question": "What is the key difference between benign and malignant tumors?",
+              "options": [
+                "Size",
+                "Speed of growth",
+                "Ability to invade and spread",
+                "Number of cells"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.742519367",
+              "explanation": ""
+            },
+            {
+              "question": "Which type of tumor is considered cancer?",
+              "options": ["Benign", "Temporary", "Malignant", "Regulated"],
+              "correctIndex": 2,
+              "fieldName": "entry.412042073",
+              "explanation": ""
+            },
+            {
+              "question": "Why is cancer described as a disease of broken regulation?",
+              "options": [
+                "Cancer cells divide too slowly",
+                "Cancer cells lose normal growth controls",
+                "Cancer cells lack DNA",
+                "Cancer cells cannot repair damage"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2051564293",
+              "explanation": ""
+            },
+            {
+              "question": "Why does cancer usually develop over a long time?",
+              "options": [
+                "Tumors grow very slowly",
+                "Cells divide infrequently",
+                "Multiple changes must accumulate in cells",
+                "Cancer only occurs in old cells"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.2021691529",
+              "explanation": ""
+            },
+            {
+              "question": "Why does cancer risk increase with age?",
+              "options": [
+                "Older cells divide faster",
+                "The immune system stops working",
+                "Cells have more time to accumulate harmful changes",
+                "Aging directly causes tumors"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1836900843",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScC6GNy_2yA4FqsnREv2hxsPHFFt3bhxDdU2IP5NJZU8RlKQQ",
+          "quizFormId": "1FAIpQLSf5nVU-s1lwKzN2X0ByrDYWOj8XWYkPEeIGxZTOH_N7YqjOgw"
+        },
+        {
+          "id": "tumors:-benign-vs-malignant",
+          "title": "2.2 Tumors: Benign vs Malignant",
+          "description": "Compare benign and malignant tumors and connect these ideas to invasion and spread.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "2.2 tumors: benign vs malignant focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What defines a tumor?",
+              "options": [
+                "A mass of dead cells",
+                "A mass of rapidly dividing cells",
+                "A collection of mutations",
+                "A malignant growth"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1621760476",
+              "explanation": ""
+            },
+            {
+              "question": "What is the key feature that distinguishes malignant tumors?",
+              "options": ["Speed of growth", "Size", "Invasiveness", "Color"],
+              "correctIndex": 2,
+              "fieldName": "entry.1163684862",
+              "explanation": ""
+            },
+            {
+              "question": "What barrier do malignant cells breach to invade tissue?",
+              "options": [
+                "Cell membrane",
+                "Nuclear envelope",
+                "Basement membrane",
+                "Cytoskeleton"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1790544410",
+              "explanation": ""
+            },
+            {
+              "question": "Why are benign tumors usually not life-threatening?",
+              "options": [
+                "They stop dividing",
+                "They remain localized",
+                "They are removed by immune cells",
+                "They lack DNA"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.591512523",
+              "explanation": ""
+            },
+            {
+              "question": "Why is metastasis dangerous?",
+              "options": [
+                "It increases mutation rates",
+                "It spreads cancer to distant organs",
+                "It slows tumor growth",
+                "It triggers apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1040921304",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdxjS9vh_4HS5mco63A_eRNxZMSFQF--Vu_s7T6Y7fEEVqK3A",
+          "quizFormId": "1FAIpQLScz2KEnrGvNd5FKumUzwADXV_uxwiQ-JRIz1FtnrxgsjASzEA"
+        },
+        {
+          "id": "cancer-as-a-disease-of-broken-regulation",
+          "title": "2.3 Cancer as a Disease of Broken Regulation",
+          "description": "Explain how cancer forms when growth signals, checkpoints, and stop signals stop working properly.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "2.3 cancer as a disease of broken regulation focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What normally regulates when cells divide?",
+              "options": [
+                "Random chance",
+                "Regulatory signaling systems",
+                "Chromosome size",
+                "Protein degradation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1588429788",
+              "explanation": ""
+            },
+            {
+              "question": "How do cancer cells exploit normal cellular programs?",
+              "options": [
+                "By inventing new behaviors",
+                "By removing restraints on existing ones",
+                "By eliminating signaling entirely",
+                "By stopping DNA repair"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1742382812",
+              "explanation": ""
+            },
+            {
+              "question": "Which process is commonly disabled in cancer cells?",
+              "options": [
+                "Metabolism",
+                "Apoptosis",
+                "Protein synthesis",
+                "Chromosome segregation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1924405362",
+              "explanation": ""
+            },
+            {
+              "question": "Regulation in tissues occurs at which levels?",
+              "options": [
+                "Only inside cells",
+                "Only between cells",
+                "Inside and between cells",
+                "Only during division"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1777289168",
+              "explanation": ""
+            },
+            {
+              "question": "Why is cancer considered a systems failure?",
+              "options": [
+                "One mutation causes all cancers",
+                "Many regulatory layers fail over time",
+                "DNA repair always stops",
+                "Cells divide randomly"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1462169660",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScrI7oFXYZms-TGXSqpdstdlHv0EM3pnKOuwSzKCN6qpGYNfg",
+          "quizFormId": "1FAIpQLSfNjkwY1Ag4DgDEDtbXFAeWl4XL_Ez9KIO89FJCDnZ6zddIog"
+        },
+        {
+          "id": "cancer-as-a-multistep-process",
+          "title": "2.4 Cancer as a Multistep Process",
+          "description": "Learn how cancer usually develops through multiple accumulated changes rather than one single event.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "2.4 cancer as a multistep process focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why does cancer usually take many years to develop?",
+              "options": [
+                "Cells divide slowly",
+                "Multiple mutations accumulate over time",
+                "DNA is rarely damaged",
+                "Tumors grow only after adulthood"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1991890521",
+              "explanation": ""
+            },
+            {
+              "question": "What happens after an early mutation occurs?",
+              "options": [
+                "Cancer immediately forms",
+                "The cell always dies",
+                "The mutation is inherited by daughter cells",
+                "Replication stops"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1030090287",
+              "explanation": ""
+            },
+            {
+              "question": "Why does cancer risk increase with age?",
+              "options": [
+                "DNA weakens",
+                "Repair enzymes disappear",
+                "Mutations accumulate with time",
+                "Cells stop dividing"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1550172283",
+              "explanation": ""
+            },
+            {
+              "question": "Which mutations most strongly drive cancer progression?",
+              "options": [
+                "Neutral mutations",
+                "Mutations providing growth advantages",
+                "Mutations in non-coding DNA only",
+                "Silent mutations"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2116962713",
+              "explanation": ""
+            },
+            {
+              "question": "Why is early detection important?",
+              "options": [
+                "It prevents DNA replication",
+                "It stops all mutations",
+                "It limits progression before many steps occur",
+                "It reverses mutations"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.488869995",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSczBoSoNGrYJzPd-aa84BoVKAwQmTzm6DXdSXcKot2GjghAqw",
+          "quizFormId": "1FAIpQLSdRQGqxTeg5aBQkrM0OJAQ2tyX-lxpXyJKMDBkRXh-BGfE59A"
+        },
+        {
+          "id": "tumor-progression-over-time",
+          "title": "2.5 Tumor Progression Over Time",
+          "description": "See how tumors change over time as the fastest-growing or best-surviving cells become more common.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "2.5 tumor progression over time focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Tumor progression refers to:",
+              "options": [
+                "Sudden cancer formation",
+                "Gradual increase in aggressiveness",
+                "Loss of all mutations",
+                "Immediate metastasis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.918949642",
+              "explanation": ""
+            },
+            {
+              "question": "What increases as tumors progress?",
+              "options": [
+                "Genetic stability",
+                "Cellular uniformity",
+                "Heterogeneity",
+                "Sensitivity to therapy"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1518729433",
+              "explanation": ""
+            },
+            {
+              "question": "Why are advanced tumors difficult to treat?",
+              "options": [
+                "They stop dividing",
+                "They contain diverse subclones",
+                "They lack blood supply",
+                "They are genetically identical"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1729858818",
+              "explanation": ""
+            },
+            {
+              "question": "What major event marks late-stage progression?",
+              "options": [
+                "Apoptosis",
+                "DNA repair",
+                "Metastasis",
+                "Cell cycle arrest"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1830180984",
+              "explanation": ""
+            },
+            {
+              "question": "Why is cancer described as dynamic?",
+              "options": [
+                "It stops changing after diagnosis",
+                "It evolves over time",
+                "It only affects dividing cells",
+                "It is genetically stable"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1660274316",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdicvVDQc3lFa5aFyS7V9YjSb0J8SZMzlIDDODFQLrJTEGdLw",
+          "quizFormId": "1FAIpQLScmzfjNUkwPZHKFUEgL3vdoYhWzGj0EB7Gc2yxmkVztYdrJyw"
+        }
+      ]
+    },
+    {
+      "id": "cell-cycle-control-and-genetic-regulation",
+      "banner": "assets/banners/section-cell-cycle-control-and-genetic-regulation.svg",
+      "title": "SECTION 3: CELL CYCLE CONTROL AND GENETIC REGULATION",
+      "summary": "Explore the cell cycle and the control systems (cyclins, CDKs, checkpoints, RB, p53) that normally prevent dangerous division.",
+      "subsections": [
+        {
+          "id": "the-cell-cycle-g1,-s,-g2,-m",
+          "title": "3.1 The Cell Cycle (G1, S, G2, M)",
+          "description": "Walk through the stages of the cell cycle and what the cell is checking or building in each stage.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "3.1 the cell cycle (g1, s, g2, m) focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "During which phase is DNA replicated?",
+              "options": ["G1", "S", "G2", "M"],
+              "correctIndex": 1,
+              "fieldName": "entry.1335234461",
+              "explanation": ""
+            },
+            {
+              "question": "Which phase monitors nutrients and growth signals?",
+              "options": ["S", "G2", "G1", "M"],
+              "correctIndex": 2,
+              "fieldName": "entry.1995480652",
+              "explanation": ""
+            },
+            {
+              "question": "What happens during M phase?",
+              "options": [
+                "DNA synthesis",
+                "Chromosome separation and division",
+                "DNA repair",
+                "Cell growth"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.555718582",
+              "explanation": ""
+            },
+            {
+              "question": "Why is the cell cycle regulated?",
+              "options": [
+                "To speed division",
+                "To ensure accurate division",
+                "To reduce protein synthesis",
+                "To prevent differentiation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1903254272",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer arises when cells:",
+              "options": [
+                "Stay in G1 permanently",
+                "Lose control over cycle progression",
+                "Stop replicating DNA",
+                "Exit the cycle permanently"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1465981175",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdZkapJvx8RzOIW3OlJMusBBi55rGieE-P3SfJR5Zxp1hVR2Q",
+          "quizFormId": "1FAIpQLScKaQVWVIe_bNw9l5NywzprCcAE0z8iqgjYZf3K_TBEugJ3qQ"
+        },
+        {
+          "id": "cyclins-and-cyclin-dependent-kinases-cdks",
+          "title": "3.2 Cyclins and Cyclin-Dependent Kinases (CDKs)",
+          "description": "Learn how cyclins and CDKs act like switches that move the cell from one stage to the next.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "3.2 cyclins and cyclin-dependent kinases (cdks) focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What activates CDKs?",
+              "options": ["Caspases", "Cyclins", "DNA damage", "Telomerase"],
+              "correctIndex": 1,
+              "fieldName": "entry.1420247736",
+              "explanation": ""
+            },
+            {
+              "question": "Why are cyclins named \u201ccyclins\u201d?",
+              "options": [
+                "They are circular",
+                "Their levels rise and fall",
+                "They recycle DNA",
+                "They are always active"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.120039810",
+              "explanation": ""
+            },
+            {
+              "question": "Cyclin-CDK complexes function by:",
+              "options": [
+                "Repairing DNA",
+                "Phosphorylating proteins",
+                "Degrading RNA",
+                "Triggering apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2011728342",
+              "explanation": ""
+            },
+            {
+              "question": "What normally restrains CDK activity?",
+              "options": [
+                "Growth factors",
+                "CDK inhibitors",
+                "Ribosomes",
+                "Telomeres"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1033070909",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer disrupts this system by:",
+              "options": [
+                "Eliminating cyclins",
+                "Increasing CDK inhibition",
+                "Overactivating cyclin-CDK activity",
+                "Stopping phosphorylation"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1038610484",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSeB3RbrHHIw75def0P3hQj6Dv_QdiTcGMbX9nKzYXhiWJDKbg",
+          "quizFormId": "1FAIpQLSfp5KX0EYj3yUWQ_xlsRfkzvgKryFEQsB5ErJn6gVle-XoTeA"
+        },
+        {
+          "id": "cell-cycle-checkpoints",
+          "title": "3.3 Cell Cycle Checkpoints",
+          "description": "Walk through the stages of the cell cycle and what the cell is checking or building in each stage.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "3.3 cell cycle checkpoints focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is the function of checkpoints?",
+              "options": [
+                "Increase division speed",
+                "Ensure proper completion of each phase",
+                "Destroy damaged DNA",
+                "Trigger mitosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.687360191",
+              "explanation": ""
+            },
+            {
+              "question": "Which checkpoint controls entry into DNA replication?",
+              "options": ["G2/M", "Spindle", "G1/S", "Cytokinesis"],
+              "correctIndex": 2,
+              "fieldName": "entry.1668009572",
+              "explanation": ""
+            },
+            {
+              "question": "What happens when damage is detected?",
+              "options": [
+                "Division continues",
+                "Division pauses or stops",
+                "DNA is deleted",
+                "Mitosis begins"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1765215587",
+              "explanation": ""
+            },
+            {
+              "question": "What does the spindle checkpoint monitor?",
+              "options": [
+                "DNA damage",
+                "Chromosome attachment",
+                "Cell size",
+                "Nutrient levels"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.481916178",
+              "explanation": ""
+            },
+            {
+              "question": "Why does checkpoint failure promote cancer?",
+              "options": [
+                "It increases apoptosis",
+                "It allows damaged DNA to be inherited",
+                "It slows mutation accumulation",
+                "It prevents division"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2134983807",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfw1cvIzLzUGpPlI0RFW9lTGpE-eBvH3MRCEngQXf45NN5v8Q",
+          "quizFormId": "1FAIpQLSeYfEGzvwhLlkFpmz2fTWVZM7CwffZ5-UFiRkr-38DmHsA7iQ"
+        },
+        {
+          "id": "tumor-suppressor-genes-rb-and-p53",
+          "title": "3.4 Tumor Suppressor Genes (RB and p53)",
+          "description": "Meet RB and p53, two key tumor suppressors that slow division, repair damage, or trigger cell death when needed.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "3.4 tumor suppressor genes (rb and p53) focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Tumor suppressor genes primarily:",
+              "options": [
+                "Promote division",
+                "Restrain division and protect DNA",
+                "Activate growth signaling",
+                "Increase metabolism"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1425268870",
+              "explanation": ""
+            },
+            {
+              "question": "RB controls:",
+              "options": [
+                "DNA repair",
+                "Entry into S phase",
+                "Apoptosis",
+                "Angiogenesis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.917764015",
+              "explanation": ""
+            },
+            {
+              "question": "p53 responds mainly to:",
+              "options": [
+                "Nutrient levels",
+                "DNA damage and stress",
+                "Cell size",
+                "Mitosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1348133446",
+              "explanation": ""
+            },
+            {
+              "question": "Why do tumor suppressors require two hits?",
+              "options": [
+                "They are duplicated",
+                "Both alleles must be lost",
+                "They are inactive by default",
+                "They mutate rapidly"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.773854282",
+              "explanation": ""
+            },
+            {
+              "question": "Loss of RB and p53 results in:",
+              "options": [
+                "Stable division",
+                "Enhanced repair",
+                "Uncontrolled division and mutation",
+                "Reduced growth"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.131373047",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSeCdSBLyxSfEtVvM66WLMLSW9l3YdaztthL6lLy7Ncmligqwg",
+          "quizFormId": "1FAIpQLScOOC2JflwiMsjJWcygnMSRIB0xhDthMCDwcNrvW_b1G28KEg"
+        },
+        {
+          "id": "what-happens-when-cell-cycle-control-fails",
+          "title": "3.5 What Happens When Cell Cycle Control Fails",
+          "description": "Walk through the stages of the cell cycle and what the cell is checking or building in each stage.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "3.5 what happens when cell cycle control fails focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is the primary consequence of failed cell cycle control?",
+              "options": [
+                "Slower cell division",
+                "Cells divide when they should not",
+                "Increased DNA repair",
+                "Reduced mutation rates"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.887993432",
+              "explanation": ""
+            },
+            {
+              "question": "What happens when checkpoints are bypassed?",
+              "options": [
+                "DNA damage is corrected automatically",
+                "Cells stop dividing permanently",
+                "Damaged DNA is passed to daughter cells",
+                "Chromosomes stabilize"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.208976936",
+              "explanation": ""
+            },
+            {
+              "question": "What increases as unchecked division continues?",
+              "options": [
+                "Genetic stability",
+                "Tissue organization",
+                "Genomic instability",
+                "Cell differentiation"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.148097490",
+              "explanation": ""
+            },
+            {
+              "question": "How does loss of control affect tissue structure?",
+              "options": [
+                "Cells become more organized",
+                "Overcrowding and invasion occur",
+                "Cells stop communicating",
+                "Growth slows"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1774306762",
+              "explanation": ""
+            },
+            {
+              "question": "Why does loss of cell cycle control accelerate cancer progression?",
+              "options": [
+                "It reduces apoptosis",
+                "It increases mutation accumulation",
+                "It improves survival signaling",
+                "It stabilizes chromosomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1282881329",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScYNIlx307q1P08p-6_cxY1HN3Y-z80T0WtiOUlT8PB2U87_g",
+          "quizFormId": "1FAIpQLScsJgzwURfPZIX9Revw0zArn1dRCWajRwAjUnE_eIJ_Chygwg"
+        }
+      ]
+    },
+    {
+      "id": "mutation,-dna-damage,-and-cancer-origins",
+      "banner": "assets/banners/section-mutation,-dna-damage,-and-cancer-origins.svg",
+      "title": "SECTION 4: MUTATION, DNA DAMAGE, AND CANCER ORIGINS",
+      "summary": "See how mutations and DNA damage happen, how cells repair DNA, and how changes in key genes can start cancer.",
+      "subsections": [
+        {
+          "id": "dna-replication-and-mutation",
+          "title": "4.1 DNA Replication and Mutation",
+          "description": "Learn how DNA is copied and how copying errors can turn into mutations.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.1 dna replication and mutation focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What must occur before a cell divides?",
+              "options": [
+                "Protein degradation",
+                "DNA replication",
+                "Chromosome loss",
+                "Apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.421413926",
+              "explanation": ""
+            },
+            {
+              "question": "Why do mutations arise during DNA replication?",
+              "options": [
+                "DNA polymerase lacks proofreading",
+                "Errors occasionally escape correction",
+                "DNA strands break intentionally",
+                "Replication occurs too slowly"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.550113044",
+              "explanation": ""
+            },
+            {
+              "question": "Which mutations are most relevant to cancer?",
+              "options": [
+                "Silent mutations",
+                "Mutations in growth-regulating genes",
+                "Mitochondrial mutations only",
+                "Non-coding mutations only"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1955648491",
+              "explanation": ""
+            },
+            {
+              "question": "Why does frequent division increase cancer risk?",
+              "options": [
+                "Repair enzymes disappear",
+                "More replication events occur",
+                "Cells become larger",
+                "Telomerase shuts down"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1481373596",
+              "explanation": ""
+            },
+            {
+              "question": "Why is DNA replication described as dangerous?",
+              "options": [
+                "It shortens chromosomes",
+                "It exposes DNA to damage",
+                "It stops transcription",
+                "It prevents repair"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1287456750",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSc803xg2HY_q3UlY3HTzb86bPJpxkBl-VeICulp60DU1E6V7Q",
+          "quizFormId": "1FAIpQLSeQQZhvcbjDRYJru4OCWf3bIakw9l_hZiWSrGmC-uktDxKkVQ"
+        },
+        {
+          "id": "types-of-dna-damage",
+          "title": "4.2 Types of DNA Damage",
+          "description": "Explore common DNA damage types (breaks, chemical changes) and what can cause them.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.2 types of dna damage focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Which type of damage alters individual DNA bases?",
+              "options": [
+                "Double-strand breaks",
+                "Base damage",
+                "Chromosome loss",
+                "Mismatch repair failure"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2051872965",
+              "explanation": ""
+            },
+            {
+              "question": "Which damage is most difficult to repair?",
+              "options": [
+                "Base damage",
+                "Single-strand breaks",
+                "Double-strand breaks",
+                "Mismatches"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.485690034",
+              "explanation": ""
+            },
+            {
+              "question": "What type of radiation causes thymine dimers?",
+              "options": [
+                "Ionizing radiation",
+                "Infrared radiation",
+                "Ultraviolet radiation",
+                "Gamma radiation"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.473433704",
+              "explanation": ""
+            },
+            {
+              "question": "What is a major internal source of DNA damage?",
+              "options": [
+                "Transcription",
+                "Normal metabolism",
+                "Ribosome activity",
+                "Cell adhesion"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1220476382",
+              "explanation": ""
+            },
+            {
+              "question": "Why is unrepaired damage dangerous before replication?",
+              "options": [
+                "It stops protein synthesis",
+                "It becomes a permanent mutation",
+                "It destroys chromosomes immediately",
+                "It triggers mitosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.284279099",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScoRKdsi4uMAX7cTWG1unL6sW_uMb0zEqv5DuQebAGhTyP9QQ",
+          "quizFormId": "1FAIpQLSdRLSQdQxBg1znx5wIvTJU2fv02XmR3xszJR5JXUtbHVG_F-g"
+        },
+        {
+          "id": "dna-repair-mechanisms",
+          "title": "4.3 DNA Repair Mechanisms",
+          "description": "See how repair pathways fix DNA and what happens when repair systems fail.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.3 dna repair mechanisms focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Which repair pathway fixes small base lesions?",
+              "options": [
+                "Nucleotide excision repair",
+                "Base excision repair",
+                "Homologous recombination",
+                "Non-homologous end joining"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1703805687",
+              "explanation": ""
+            },
+            {
+              "question": "Which pathway removes bulky UV-induced damage?",
+              "options": [
+                "Base excision repair",
+                "Mismatch repair",
+                "Nucleotide excision repair",
+                "NHEJ"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.697501833",
+              "explanation": ""
+            },
+            {
+              "question": "Which repair method uses a homologous DNA template?",
+              "options": ["NHEJ", "BER", "Homologous recombination", "MMR"],
+              "correctIndex": 2,
+              "fieldName": "entry.1480868950",
+              "explanation": ""
+            },
+            {
+              "question": "Why is NHEJ considered error-prone?",
+              "options": [
+                "It deletes entire chromosomes",
+                "It joins DNA ends without a template",
+                "It only works in cancer cells",
+                "It prevents replication"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1005068385",
+              "explanation": ""
+            },
+            {
+              "question": "How do repair defects promote cancer?",
+              "options": [
+                "They slow cell division",
+                "They increase genomic instability",
+                "They block transcription",
+                "They stop apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1418446076",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSdpk4KvOtC1tKJnYTR-iHtYV7QfcYXdMHUhcwijLKgLveWOuA",
+          "quizFormId": "1FAIpQLScD_Vsv9-RTtP_TN6GbbyT_D2IJ-6cx07z7TqZgtDrr0IQ5Pg"
+        },
+        {
+          "id": "oncogenes-vs-tumor-suppressor-genes",
+          "title": "4.4 Oncogenes vs Tumor Suppressor Genes",
+          "description": "Compare oncogenes (gas pedal) and tumor suppressor genes (brakes) in controlling cell growth.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.4 oncogenes vs tumor suppressor genes focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What are proto-oncogenes?",
+              "options": [
+                "Genes that suppress division",
+                "Normal growth-promoting genes",
+                "Mutated repair genes",
+                "Viral DNA sequences"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1361394006",
+              "explanation": ""
+            },
+            {
+              "question": "How do oncogenes usually arise?",
+              "options": [
+                "Loss-of-function mutations",
+                "Gain-of-function mutations",
+                "Chromosome deletion",
+                "Epigenetic silencing only"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2064327923",
+              "explanation": ""
+            },
+            {
+              "question": "Tumor suppressor genes primarily:",
+              "options": [
+                "Promote division",
+                "Restrain growth or trigger repair/death",
+                "Activate telomerase",
+                "Increase metabolism"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2088031204",
+              "explanation": ""
+            },
+            {
+              "question": "Why do tumor suppressors follow the two-hit principle?",
+              "options": [
+                "They are duplicated in S phase",
+                "Both gene copies must be lost",
+                "They mutate easily",
+                "They are inactive by default"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1512253866",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer develops when:",
+              "options": [
+                "Oncogenes decrease and suppressors increase",
+                "Growth signals dominate over restraints",
+                "Repair pathways overactivate",
+                "Telomeres shorten rapidly"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1206461101",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSeG5v5vQUDgzXTyncmHEku4D06ZA6fVkpEiFECdVQzBPKZ-mQ",
+          "quizFormId": "1FAIpQLSdKz237T2MUgk1vhXDvYeiKTVI005qQqT-oJ0HBZacQ1dxGlw"
+        },
+        {
+          "id": "carcinogens-and-environmental-causes",
+          "title": "4.5 Carcinogens and Environmental Causes",
+          "description": "Learn how carcinogens like tobacco smoke, UV, and some chemicals raise cancer risk by damaging DNA.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.5 carcinogens and environmental causes focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What do carcinogens primarily increase?",
+              "options": [
+                "Guaranteed cancer formation",
+                "Mutation probability",
+                "DNA repair efficiency",
+                "Cell death"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2065910744",
+              "explanation": ""
+            },
+            {
+              "question": "Which is a chemical carcinogen?",
+              "options": ["UV radiation", "Tobacco smoke", "X-rays", "Viruses"],
+              "correctIndex": 1,
+              "fieldName": "entry.873465854",
+              "explanation": ""
+            },
+            {
+              "question": "How do biological carcinogens promote cancer?",
+              "options": [
+                "By destroying mitochondria",
+                "By disrupting cell-cycle regulation",
+                "By stopping replication",
+                "By blocking transcription"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1523424379",
+              "explanation": ""
+            },
+            {
+              "question": "Why doesn\u2019t carcinogen exposure always cause cancer?",
+              "options": [
+                "Mutations never occur",
+                "Repair systems may correct damage",
+                "Cells stop dividing",
+                "DNA is resistant"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.99807888",
+              "explanation": ""
+            },
+            {
+              "question": "Who is most vulnerable to carcinogens?",
+              "options": [
+                "Individuals with strong immune systems",
+                "Individuals with defective DNA repair",
+                "Young individuals only",
+                "Cells in G0 phase"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1175917031",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfzGV9LLX5gauaj2AqwfcbDS8pQAyyTIFwdRKfDpw6PEbnVwA",
+          "quizFormId": "1FAIpQLSfF3scjT3IM7sbZlR07snRzBb5S911Of10ONgTAkSrM0Sei2g"
+        },
+        {
+          "id": "clonal-evolution-of-cancer-cells",
+          "title": "4.6 Clonal Evolution of Cancer Cells",
+          "description": "Understand how cancer cells evolve over time as helpful mutations spread through a growing tumor.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "4.6 clonal evolution of cancer cells focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is clonal evolution?",
+              "options": [
+                "Random mutation without selection",
+                "Expansion of advantageous mutant cells",
+                "Loss of all mutations",
+                "Uniform tumor growth"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.559621370",
+              "explanation": ""
+            },
+            {
+              "question": "What is a clone?",
+              "options": [
+                "Identical tumors in different organs",
+                "Descendants of one mutated cell",
+                "Immune cells in tumors",
+                "Normal tissue cells"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1840827659",
+              "explanation": ""
+            },
+            {
+              "question": "Why do subclones arise?",
+              "options": [
+                "Mutation stops",
+                "Additional mutations occur",
+                "Cells stop dividing",
+                "DNA stabilizes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.420253428",
+              "explanation": ""
+            },
+            {
+              "question": "What does clonal evolution explain?",
+              "options": [
+                "Genetic stability",
+                "Treatment resistance",
+                "Early tumor disappearance",
+                "Reduced heterogeneity"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.668717805",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer is considered evolutionary because it:",
+              "options": [
+                "Stops mutating",
+                "Undergoes selection and adaptation",
+                "Is inherited only",
+                "Requires one mutation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.260295538",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfFMJHgTdD8qzi3UDb3gkPnWmfMlW2bE7zuO4fDa7nt14wnZg",
+          "quizFormId": "1FAIpQLSdWZfQQ41Ef50qtO4nrZzlSPinAR9yMnkgoopH7YIpT_L6TOA"
+        }
+      ]
+    },
+    {
+      "id": "how-cancer-cells-survive-and-expand",
+      "banner": "assets/banners/section-how-cancer-cells-survive-and-expand.svg",
+      "title": "SECTION 5: HOW CANCER CELLS SURVIVE AND EXPAND",
+      "summary": "Learn how cancer cells avoid death, keep dividing, hijack growth signals, reshape their environment, and build blood supply.",
+      "subsections": [
+        {
+          "id": "avoiding-cell-death-apoptosis",
+          "title": "5.1 Avoiding Cell Death (Apoptosis)",
+          "description": "Learn apoptosis (programmed cell death) and how cancer cells avoid it.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "5.1 avoiding cell death (apoptosis) focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What is apoptosis?",
+              "options": [
+                "Accidental cell death",
+                "Programmed, controlled cell death",
+                "Necrotic tissue damage",
+                "Immune cell attack"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.399049836",
+              "explanation": ""
+            },
+            {
+              "question": "Which organelle plays a key role in intrinsic apoptosis?",
+              "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi"],
+              "correctIndex": 2,
+              "fieldName": "entry.1296999277",
+              "explanation": ""
+            },
+            {
+              "question": "What protein is released from mitochondria to trigger apoptosis?",
+              "options": ["ATP", "Cytochrome c", "p53", "VEGF"],
+              "correctIndex": 1,
+              "fieldName": "entry.321929213",
+              "explanation": ""
+            },
+            {
+              "question": "What do caspases do?",
+              "options": [
+                "Repair DNA",
+                "Cut essential cellular proteins",
+                "Build membranes",
+                "Activate telomerase"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.577541642",
+              "explanation": ""
+            },
+            {
+              "question": "Why must cancer cells avoid apoptosis?",
+              "options": [
+                "To grow slower",
+                "To survive damage and instability",
+                "To reduce mutation rates",
+                "To stabilize chromosomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1655633063",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfmHMr4KFZajHlaO-CUapcE5iBPqKpdgEgPIlCeL6TZ1hwD8Q",
+          "quizFormId": "1FAIpQLSclbmI_fc9BMYCh8cnjyRJkcAgPia16j_FOsnW4ec1901XI-Q"
+        },
+        {
+          "id": "cellular-immortality-and-telomerase",
+          "title": "5.2 Cellular Immortality and Telomerase",
+          "description": "See how telomeres limit divisions and how cancer cells use telomerase to keep dividing.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "5.2 cellular immortality and telomerase focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What limits normal cell division?",
+              "options": [
+                "DNA repair",
+                "Telomere shortening",
+                "Protein degradation",
+                "Checkpoints"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.648511683",
+              "explanation": ""
+            },
+            {
+              "question": "What enzyme maintains telomeres in cancer cells?",
+              "options": ["DNA polymerase", "Telomerase", "Caspase", "Kinase"],
+              "correctIndex": 1,
+              "fieldName": "entry.1579749171",
+              "explanation": ""
+            },
+            {
+              "question": "Why is telomerase inactive in most adult tissues?",
+              "options": [
+                "It is unnecessary",
+                "It prevents uncontrolled division",
+                "It damages DNA",
+                "It increases apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1789264603",
+              "explanation": ""
+            },
+            {
+              "question": "What does cellular immortality allow cancer cells to do?",
+              "options": [
+                "Divide indefinitely",
+                "Avoid mutation",
+                "Repair all DNA damage",
+                "Stop evolution"
+              ],
+              "correctIndex": 0,
+              "fieldName": "entry.572171788",
+              "explanation": ""
+            },
+            {
+              "question": "What is an alternative to telomerase?",
+              "options": [
+                "DNA proofreading",
+                "Alternative lengthening of telomeres",
+                "Apoptosis",
+                "NHEJ"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.290852297",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSc8GMLcaWZOK8j9AptYYkon3bGBDg7cOZ13pQJo9WycaZQy_A",
+          "quizFormId": "1FAIpQLSc9J1frxPGNzzkpw1FhKz7nvRi33lGtWiG2OwQziX65Megk0A"
+        },
+        {
+          "id": "growth-signaling-pathways",
+          "title": "5.3 Growth Signaling Pathways",
+          "description": "Understand how growth signals work and how cancer cells can turn them on too strongly.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "5.3 growth signaling pathways focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What activates growth signaling pathways?",
+              "options": [
+                "Ribosomes",
+                "Growth factors",
+                "Telomeres",
+                "Caspases"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2075561007",
+              "explanation": ""
+            },
+            {
+              "question": "What type of receptor often initiates growth signaling?",
+              "options": [
+                "GPCR",
+                "Receptor tyrosine kinase",
+                "Ion channel",
+                "Integrin"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1791308764",
+              "explanation": ""
+            },
+            {
+              "question": "What does the Ras-MAPK pathway promote?",
+              "options": [
+                "Apoptosis",
+                "Cell division",
+                "DNA repair",
+                "Telomere loss"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1801632238",
+              "explanation": ""
+            },
+            {
+              "question": "What does PI3K-Akt signaling support?",
+              "options": [
+                "Cell death",
+                "Survival and metabolism",
+                "Chromosome segregation",
+                "Repair arrest"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1108828788",
+              "explanation": ""
+            },
+            {
+              "question": "How are growth pathways altered in cancer?",
+              "options": [
+                "They are shut off",
+                "They become permanently active",
+                "They disappear",
+                "They slow down"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.608503063",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfD9MaaTHl7ye_vsoCuowojS-g0UrUThMwhB3IzLsrGV1fWJQ",
+          "quizFormId": "1FAIpQLSfh6JnjcT1LpWxQlQTtpmR-iR7ReLKoDOhBmcev1TABgGxoMA"
+        },
+        {
+          "id": "tumor-microenvironment",
+          "title": "5.4 Tumor Microenvironment",
+          "description": "Explore how surrounding cells, immune cells, and the extracellular matrix affect tumor growth.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "5.4 tumor microenvironment focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Tumors consist of:",
+              "options": [
+                "Cancer cells only",
+                "Cancer cells and surrounding components",
+                "Immune cells only",
+                "Fibroblasts only"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.767034937",
+              "explanation": ""
+            },
+            {
+              "question": "What role do fibroblasts play in tumors?",
+              "options": [
+                "Kill cancer cells",
+                "Remodel tissue and promote growth",
+                "Stop angiogenesis",
+                "Repair DNA"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1683572394",
+              "explanation": ""
+            },
+            {
+              "question": "How can immune cells support tumors?",
+              "options": [
+                "By eliminating mutations",
+                "By promoting inflammation and growth",
+                "By triggering apoptosis",
+                "By stabilizing tissue"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1869155636",
+              "explanation": ""
+            },
+            {
+              "question": "Why are tumors compared to wounds that do not heal?",
+              "options": [
+                "They lack blood supply",
+                "They involve chronic inflammation and remodeling",
+                "They stop dividing",
+                "They lack immune cells"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.615994123",
+              "explanation": ""
+            },
+            {
+              "question": "Why does the microenvironment affect treatment?",
+              "options": [
+                "It speeds drug delivery",
+                "It can block effective drug penetration",
+                "It stabilizes tumors",
+                "It prevents mutation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.935299063",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSea3Pan7aATrfst4f9Tg4RDrjDKf386YtV_DWuLQ3iOssfntw",
+          "quizFormId": "1FAIpQLSc_hG8Lp8YezJXcv1ySuJrXorkJolz-Q0Piyu9Y_k6xeqgSbA"
+        },
+        {
+          "id": "angiogenesis:-feeding-the-tumor",
+          "title": "5.5 Angiogenesis: Feeding the Tumor",
+          "description": "Learn how tumors trigger new blood vessels to bring oxygen and nutrients.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "5.5 angiogenesis: feeding the tumor focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why do tumors induce angiogenesis?",
+              "options": [
+                "To reduce mutation rates",
+                "To obtain oxygen and nutrients",
+                "To stop apoptosis",
+                "To prevent metastasis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1583110216",
+              "explanation": ""
+            },
+            {
+              "question": "What condition triggers angiogenesis?",
+              "options": [
+                "High nutrients",
+                "Hypoxia",
+                "DNA damage",
+                "Telomere shortening"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.962655176",
+              "explanation": ""
+            },
+            {
+              "question": "What is VEGF?",
+              "options": [
+                "A repair enzyme",
+                "A growth factor for blood vessels",
+                "A tumor suppressor",
+                "A caspase"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.668319960",
+              "explanation": ""
+            },
+            {
+              "question": "Tumor blood vessels are often:",
+              "options": [
+                "Highly organized",
+                "Normal and efficient",
+                "Disorganized and leaky",
+                "Absent"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1015151965",
+              "explanation": ""
+            },
+            {
+              "question": "Angiogenesis also promotes:",
+              "options": [
+                "DNA repair",
+                "Metastasis",
+                "Cell cycle arrest",
+                "Differentiation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1242842212",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScYGNdEkjpkopxDZHu4EJOPELx2uLLH_SH6vBaBoLXotxJwtQ",
+          "quizFormId": "1FAIpQLSe0Z2JSitl3ZJphZFbwdWM0ucyarSRiT7Ll6OvcZ3yyeGNzug"
+        }
+      ]
+    },
+    {
+      "id": "invasion,-metastasis,-and-impact",
+      "banner": "assets/banners/section-invasion,-metastasis,-and-impact.svg",
+      "title": "SECTION 6: INVASION, METASTASIS, AND IMPACT",
+      "summary": "Discover how cancer cells break barriers, migrate, spread (metastasize), and why prevention and awareness matter.",
+      "subsections": [
+        {
+          "id": "tissue-barriers-and-cell-adhesion",
+          "title": "6.1 Tissue Barriers and Cell Adhesion",
+          "description": "Learn how tissues are held together and what barriers cancer must break to invade.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.1 tissue barriers and cell adhesion focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What maintains tissue organization?",
+              "options": [
+                "Random cell movement",
+                "Physical barriers and adhesion",
+                "DNA replication",
+                "Apoptosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2072157461",
+              "explanation": ""
+            },
+            {
+              "question": "What is the basement membrane?",
+              "options": [
+                "A nuclear structure",
+                "A signaling protein",
+                "A barrier separating tissues",
+                "A blood vessel"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.352601926",
+              "explanation": ""
+            },
+            {
+              "question": "Which adhesion molecule is critical in epithelial tissues?",
+              "options": ["Integrin", "E-cadherin", "VEGF", "Ras"],
+              "correctIndex": 1,
+              "fieldName": "entry.816988310",
+              "explanation": ""
+            },
+            {
+              "question": "Loss of adhesion primarily enables:",
+              "options": ["Apoptosis", "Invasion", "Repair", "Differentiation"],
+              "correctIndex": 1,
+              "fieldName": "entry.879687720",
+              "explanation": ""
+            },
+            {
+              "question": "Adhesion molecules also:",
+              "options": [
+                "Repair DNA",
+                "Transmit regulatory signals",
+                "Degrade matrix",
+                "Trigger mitosis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1677879096",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScWkLv2ULjHIi61RoagVBc4z9k0a1R-zl-aE8gZlkqi2K55sA",
+          "quizFormId": "1FAIpQLScveCmf4jP4c6gBsgFeTK8n1rbMbUj7WFhdkkLzziPbdj-Swg"
+        },
+        {
+          "id": "epithelial-to-mesenchymal-transition-emt",
+          "title": "6.2 Epithelial-to-Mesenchymal Transition (EMT)",
+          "description": "Understand EMT, when cells change shape and behavior to become more mobile.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.2 epithelial-to-mesenchymal transition (emt) focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "EMT allows cells to become:",
+              "options": [
+                "More rigid",
+                "More proliferative",
+                "More migratory",
+                "More differentiated"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1247007187",
+              "explanation": ""
+            },
+            {
+              "question": "What is lost during EMT?",
+              "options": [
+                "Telomeres",
+                "E-cadherin-mediated adhesion",
+                "DNA repair",
+                "Growth signaling"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.261035308",
+              "explanation": ""
+            },
+            {
+              "question": "EMT is normally used in:",
+              "options": [
+                "Cancer only",
+                "Development and wound healing",
+                "DNA replication",
+                "Immune responses"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1411328037",
+              "explanation": ""
+            },
+            {
+              "question": "EMT is driven by:",
+              "options": [
+                "Caspases",
+                "Transcription factors",
+                "Kinases only",
+                "Repair enzymes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1875637666",
+              "explanation": ""
+            },
+            {
+              "question": "EMT also contributes to:",
+              "options": [
+                "Reduced survival",
+                "Stem-like properties",
+                "Stable adhesion",
+                "Cell cycle arrest"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.90252065",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSeqqj-Zor-770YzNIcrPjHPrvx4dADFbADLUPNkhyMqo5tK7Q",
+          "quizFormId": "1FAIpQLScNFRBG7FSJkMxgEKf-kg9uPRPk8lgkLsHuevpPUMCJks7Pcw"
+        },
+        {
+          "id": "cancer-cell-migration",
+          "title": "6.3 Cancer Cell Migration",
+          "description": "See how cancer cells move, follow signals, and navigate through tissues.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.3 cancer cell migration focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "What initiates cell migration?",
+              "options": [
+                "Apoptosis",
+                "Cell polarization",
+                "DNA repair",
+                "Replication"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.970039972",
+              "explanation": ""
+            },
+            {
+              "question": "What provides traction during migration?",
+              "options": ["Cadherins", "Integrins", "Caspases", "Telomerase"],
+              "correctIndex": 1,
+              "fieldName": "entry.536184102",
+              "explanation": ""
+            },
+            {
+              "question": "What enzymes degrade extracellular matrix?",
+              "options": [
+                "Kinases",
+                "Caspases",
+                "Matrix metalloproteinases",
+                "Polymerases"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1691088156",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer cells may migrate:",
+              "options": [
+                "Only individually",
+                "Only collectively",
+                "Individually or collectively",
+                "Not at all"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.1265779397",
+              "explanation": ""
+            },
+            {
+              "question": "Migration is required for:",
+              "options": [
+                "DNA repair",
+                "Invasion and metastasis",
+                "Differentiation",
+                "Checkpoint control"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.613698409",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSco9i7X8AEqZcepR8WEF4ynewVe5EwGOQ7s7x9nmbKVcUm06g",
+          "quizFormId": "1FAIpQLScxkJweig3ooa2AlB86XcVpfoeVSmWlCWPbsoFwwm5EBiE0dA"
+        },
+        {
+          "id": "metastasis:-spreading-through-the-body",
+          "title": "6.4 Metastasis: Spreading Through the Body",
+          "description": "Learn the steps of metastasis: invasion, entry into blood/lymph, travel, and growth in a new site.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.4 metastasis: spreading through the body focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Metastasis begins with:",
+              "options": ["Colonization", "Invasion", "Apoptosis", "Repair"],
+              "correctIndex": 1,
+              "fieldName": "entry.1372287390",
+              "explanation": ""
+            },
+            {
+              "question": "Entry into blood vessels is called:",
+              "options": [
+                "Extravasation",
+                "Intravasation",
+                "Migration",
+                "Angiogenesis"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1514666395",
+              "explanation": ""
+            },
+            {
+              "question": "Why do most circulating cancer cells die?",
+              "options": [
+                "Lack of nutrients",
+                "Mechanical stress and immune attack",
+                "DNA repair",
+                "Differentiation"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.188075600",
+              "explanation": ""
+            },
+            {
+              "question": "Exit from circulation is called:",
+              "options": [
+                "Invasion",
+                "Extravasation",
+                "Colonization",
+                "Migration"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.179491804",
+              "explanation": ""
+            },
+            {
+              "question": "What is the most difficult metastatic step?",
+              "options": [
+                "Invasion",
+                "Circulation",
+                "Colonization",
+                "Replication"
+              ],
+              "correctIndex": 2,
+              "fieldName": "entry.636219427",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScVmxHffApCTPf2ypIgY5yJxXKvQWxJbaRbfwVRdfX7t3wQWA",
+          "quizFormId": "1FAIpQLSc-6WKtoCUziCFb9VhKWBpcwHLLv4xmyznW-MJSo6K12VI3Ug"
+        },
+        {
+          "id": "why-metastasis-is-the-most-dangerous-stage",
+          "title": "6.5 Why Metastasis Is the Most Dangerous Stage",
+          "description": "Learn the steps of metastasis: invasion, entry into blood/lymph, travel, and growth in a new site.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.5 why metastasis is the most dangerous stage focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why is metastasis more dangerous than localized tumors?",
+              "options": [
+                "It slows growth",
+                "It affects multiple organs",
+                "It stops division",
+                "It stabilizes tissue"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.211826108",
+              "explanation": ""
+            },
+            {
+              "question": "Why are metastases difficult to treat?",
+              "options": [
+                "They are identical",
+                "They are genetically diverse",
+                "They stop mutating",
+                "They lack blood supply"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.186353440",
+              "explanation": ""
+            },
+            {
+              "question": "What does metastasis indicate biologically?",
+              "options": [
+                "Early disease",
+                "Advanced evolution",
+                "Reduced selection",
+                "Stable genomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.62169348",
+              "explanation": ""
+            },
+            {
+              "question": "Cancer-related death usually results from:",
+              "options": [
+                "Primary tumor size",
+                "Organ failure due to metastases",
+                "DNA damage",
+                "Cell cycle arrest"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2080770487",
+              "explanation": ""
+            },
+            {
+              "question": "Preventing metastasis is important because it:",
+              "options": [
+                "Stops mutation",
+                "Limits systemic disease",
+                "Eliminates cancer risk",
+                "Stabilizes chromosomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.156686",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLSfiluDfntQxz8CXkyTBs4ILk8uqVMW7vN1ipc_sIPcdGvYWhg",
+          "quizFormId": "1FAIpQLSddyZWozQPlkfUJDw1Wel-1y5PPqpzuVi7Rq1QzROU2I4V-Mw"
+        },
+        {
+          "id": "prevention,-awareness,-and-why-this-biology-matters",
+          "title": "6.6 Prevention, Awareness, and Why This Biology Matters",
+          "description": "Connect the biology to real-life choices: prevention, screening, and understanding risk factors.",
+          "videoUrl": "https://www.youtube.com/watch?v=LEpTTolebqo",
+          "duration": "5 min",
+          "text": [
+            "6.6 prevention, awareness, and why this biology matters focuses on the biological processes involved and how cells normally behave in this situation. It highlights why precise control is important for keeping tissues healthy.",
+            "When these processes are disrupted, cells may begin to grow, divide, or survive in abnormal ways. Understanding this concept helps explain how cancer develops step by step rather than all at once."
+          ],
+          "questions": [
+            {
+              "question": "Why is early detection effective?",
+              "options": [
+                "It reverses mutations",
+                "It intervenes before many steps occur",
+                "It stops division permanently",
+                "It prevents exposure"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.2013808026",
+              "explanation": ""
+            },
+            {
+              "question": "What reduces cancer initiation risk?",
+              "options": [
+                "Avoiding cell division",
+                "Reducing carcinogen exposure",
+                "Increasing mutation rates",
+                "Blocking repair"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1682341393",
+              "explanation": ""
+            },
+            {
+              "question": "Why is there no single cure for cancer?",
+              "options": [
+                "Cancer is always inherited",
+                "Cancer involves diverse biological failures",
+                "DNA cannot be repaired",
+                "Cells stop evolving"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.516009888",
+              "explanation": ""
+            },
+            {
+              "question": "Modern therapies often target:",
+              "options": [
+                "All dividing cells",
+                "Specific pathways",
+                "DNA universally",
+                "Ribosomes"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.309415901",
+              "explanation": ""
+            },
+            {
+              "question": "Understanding cancer biology helps because it:",
+              "options": [
+                "Eliminates cancer",
+                "Enables informed prevention and treatment strategies",
+                "Stops evolution",
+                "Prevents all mutations"
+              ],
+              "correctIndex": 1,
+              "fieldName": "entry.1126443441",
+              "explanation": ""
+            }
+          ],
+          "form_id": "1FAIpQLScCNQFciAbDAZY0MKCNE3vzlBRmXc2ecq_LJH_nAGMHBEBkww",
+          "quizFormId": "1FAIpQLSd8nCKP6lM2Us0ZfoIZ8dymcmlceZ_1hKhQmZ3fdlp1Jnav8g"
+        }
+      ]
+    }
+  ]
+}
