@@ -171,3 +171,7 @@ hr.sep{border:0;height:1px;background:var(--line);margin:14px 0}
   .layout{grid-template-columns:1fr}
   .iframe-wrap iframe{height:260px}
 }
+
+#sideNav li.card{
+  list-style-type: none;
+}
