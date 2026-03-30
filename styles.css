@@ -175,3 +175,168 @@ hr.sep{border:0;height:1px;background:var(--line);margin:14px 0}
 #sideNav li.card{
   list-style-type: none;
 }
+
+@media (max-width: 768px) {
+  .container {
+    padding: 12px 12px 28px;
+  }
+
+  .topbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    padding: 8px 0;
+  }
+
+  .brand {
+    justify-content: center;
+  }
+
+  .nav {
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .nav a {
+    flex: 1 1 calc(50% - 8px);
+    text-align: center;
+    padding: 12px 10px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .layout {
+    gap: 12px;
+    margin-top: 14px;
+  }
+
+  .col,
+  .card,
+  .q {
+    padding: 12px;
+    border-radius: 14px;
+  }
+
+  .hero-title {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+
+  .lead {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .kicker {
+    font-size: 11px;
+    letter-spacing: .12em;
+  }
+
+  .btn {
+    width: 100%;
+    justify-content: center;
+    min-height: 44px;
+  }
+
+  .pill {
+    font-size: 12px;
+    padding: 5px 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: 24px;
+  }
+
+  .brand span {
+    font-size: 18px;
+  }
+
+  .col {
+    min-height: unset;
+  }
+}
+
+/* give each column a role in lesson.html with classes:
+   <aside class="col lesson-nav">...
+   <main class="col lesson-main">...
+   <aside class="col lesson-tips">...
+*/
+
+@media (max-width: 960px) {
+  .lesson-main { order: 1; }
+  .lesson-tips { order: 2; }
+  .lesson-nav  { order: 3; }
+}
+
+@media (max-width: 768px) {
+  .opt {
+    padding: 14px 12px;
+    gap: 12px;
+  }
+
+  .opt input {
+    transform: scale(1.15);
+    margin-top: 4px;
+  }
+
+  .q h4 {
+    font-size: 15px;
+    line-height: 1.45;
+  }
+}
+
+.iframe-wrap {
+  aspect-ratio: 16 / 9;
+}
+
+.iframe-wrap iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+
+@media (max-width: 960px) {
+  .iframe-wrap iframe {
+    height: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-sub,
+  .topic-list a {
+    padding: 10px 11px;
+  }
+
+  .topic-meta {
+    gap: 6px;
+    font-size: 12px;
+  }
+
+  .section-sub div[style*="font-size:13px"] {
+    font-size: 12px !important;
+    line-height: 1.45;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner img {
+    max-height: 180px;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+@media (max-width: 768px) {
+  #lessonText p {
+    font-size: 15px;
+    line-height: 1.75;
+  }
+
+  hr.sep {
+    margin: 12px 0;
+  }
+}
